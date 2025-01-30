@@ -1,0 +1,6 @@
+{
+  "name": "LETA Systems Add-On",
+  "udev": true,
+  "url": "https://github.com/LetaSystems/leta-service",
+  "maintainer": "LetaSystems"
+}
