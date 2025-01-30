@@ -4,5 +4,5 @@ build_from:
   amd64: ghcr.io/hassio-addons/base/amd64:17.1.0
   armv7: ghcr.io/hassio-addons/base/armv7:17.1.0
 codenotary:
-  base_image: codenotary@frenck.dev
-  signer: codenotary@frenck.dev
+  base_image: LETA Systems
+  signer: LETA Systems
