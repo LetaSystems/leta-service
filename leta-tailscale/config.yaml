@@ -1,10 +1,10 @@
 ---
-name: Tailscale
+name: LETA-Tailscale
 version: dev
 slug: tailscale
 description: Zero config VPN for building secure networks
-url: https://github.com/hassio-addons/addon-tailscale
-codenotary: codenotary@frenck.dev
+url: https://github.com/LetaSystems/leta-service
+codenotary: leta.sys@gmail.com
 ingress: true
 ingress_port: 0
 ingress_stream: true
