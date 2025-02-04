@@ -1,6 +1,6 @@
 ---
 name: Tailscale (LETA)
-version: 0.24.0.3
+version: 0.24.0.4
 slug: tailscale-leta
 description: Zero config VPN for building secure networks
 url: https://github.com/hassio-addons/addon-tailscale
@@ -26,7 +26,7 @@ devices:
 map:
   - share:rw
 ports:
-  41641/udp: null
+  41642/udp: null
 schema:
   accept_dns: bool?
   accept_routes: bool?
