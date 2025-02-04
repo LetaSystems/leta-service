@@ -336,7 +336,7 @@ balancing and failover is impossible with the current add-on behavior.
 
 ## Network
 
-### Port: `41641/udp`
+### Port: `41642/udp`
 
 UDP port to listen on for WireGuard and peer-to-peer traffic.
 
